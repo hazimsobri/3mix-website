@@ -1,0 +1,121 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "sticky_card",
+    "items": [
+      {
+        "title": [
+          {
+            "type": "heading3",
+            "text": "Utilize e-business action-items",
+            "spans": []
+          }
+        ],
+        "desc": [
+          {
+            "type": "paragraph",
+            "text": "Proident eiusmod nisi magna ex excepteur eu nostrud dolore deserunt ullamco ipsum sunt deserunt. Excepteur eiusmod do consectetur culpa sunt eu laborum non ea est officia ex elit velit non. Ea officia elit id velit.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=900&h=500&fit=crop"
+        },
+        "step": [
+          {
+            "type": "paragraph",
+            "text": "Id et id eu magna proident veniam anim. Elit commodo veniam eu veniam adipisicing.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "title": [
+          {
+            "type": "heading3",
+            "text": "Target compelling interfaces",
+            "spans": []
+          }
+        ],
+        "desc": [
+          {
+            "type": "paragraph",
+            "text": "Occaecat ad eiusmod cupidatat aliquip culpa. Voluptate consectetur aute sint eu consequat.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?w=900&h=500&fit=crop"
+        },
+        "step": [
+          {
+            "type": "paragraph",
+            "text": "Aliqua ipsum adipisicing qui elit consequat exercitation nostrud et dolore Lorem. Esse et sit veniam excepteur non voluptate officia.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "title": [
+          {
+            "type": "heading3",
+            "text": "Exploit out-of-the-box applications",
+            "spans": []
+          }
+        ],
+        "desc": [
+          {
+            "type": "paragraph",
+            "text": "Ad occaecat velit consequat proident dolor veniam sint velit. Sunt enim minim magna sit amet pariatur consectetur ad est aliquip ad qui duis deserunt.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=900&h=500&fit=crop"
+        },
+        "step": [
+          {
+            "type": "paragraph",
+            "text": "Magna velit deserunt dolor aute nulla veniam eiusmod culpa laboris nisi laboris commodo aliqua. Amet cupidatat ex dolor.",
+            "spans": []
+          }
+        ]
+      }
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Extend 24/365 technologies",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Do tempor id esse elit sit anim voluptate amet ut commodo dolor exercitation ex. Aliquip ullamco Lorem ut dolor exercitation.",
+          "spans": []
+        }
+      ]
+    }
+  }
+]

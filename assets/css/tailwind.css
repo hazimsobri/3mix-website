@@ -1,0 +1,17 @@
+/* purgecss start ignore */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+/* purgecss end ignore */
+@import 'tailwindcss/utilities';
+@import url('tailwindcss/dist/tailwind.min.css');
+
+@font-face {
+    font-family: 'tacticSans';
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url('~/assets/fonts/TacticSans-Bld.woff2') format('woff2'),
+         url('~/assets/fonts/TacticSans-Bld.woff') format('woff');
+  }
+
+

@@ -1,0 +1,251 @@
+{
+  "_cts": {
+    "blog": {
+      "image": {
+        "content": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5"
+      }
+    },
+    "page": {
+      "metaTitle": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      }
+    },
+    "home-page": {},
+    "menu": {},
+    "Nav": {},
+    "Menu": {
+      "menulinks": {
+        "label": {
+          "config": {
+            "patternType": "PARAGRAPH",
+            "blocks": 1
+          }
+        }
+      },
+      "title": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
+      }
+    },
+    "Page": {},
+    "nav": {
+      "navItems": {
+        "navTitle": {
+          "config": {
+            "patternType": "PARAGRAPH",
+            "blocks": 1
+          }
+        }
+      }
+    },
+    "projects": {}
+  },
+  "slices": {
+    "Hero": {
+      "default": {
+        "primary": {
+          "title": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "HomeHero": {
+      "default": {
+        "primary": {
+          "description": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "Slider": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "Accordion": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "Menu": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "Data": {},
+    "JobBanner": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "ContentTypeA": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "CombinedBanner": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "ServiceIntro": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "ContentTypeB": {
+      "default": {
+        "primary": {
+          "contentA": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "NoLinkSlider": {
+      "default": {
+        "primary": {},
+        "items": {
+          "title": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "ListContent": {
+      "default": {
+        "primary": {},
+        "items": {
+          "description": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          },
+          "title": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "JobListing": {
+      "default": {
+        "primary": {},
+        "items": {}
+      }
+    },
+    "StickyCard": {
+      "default": {
+        "primary": {},
+        "items": {
+          "title": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "Contact": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "Grid": {
+      "default": {
+        "items": {
+          "title": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          },
+          "detail": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        },
+        "primary": {
+          "title": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          },
+          "description": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "FullImageHero": {
+      "default": {
+        "primary": {
+          "titleA": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          },
+          "titleB": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          },
+          "titleC": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "ContentTypeC": {},
+    "ContentAutoSlider": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "CustomBlock": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "GridLogos": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "CustomGrid": {}
+  }
+}

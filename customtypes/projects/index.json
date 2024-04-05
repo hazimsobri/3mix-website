@@ -1,0 +1,109 @@
+{
+  "id": "projects",
+  "label": "Projects",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "uid": {
+        "config": {
+          "label": "Uid",
+          "placeholder": ""
+        },
+        "type": "UID"
+      },
+      "image": {
+        "config": {
+          "label": "Image",
+          "constraint": {},
+          "thumbnails": []
+        },
+        "type": "Image"
+      },
+      "title": {
+        "config": {
+          "label": "Title",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        },
+        "type": "StructuredText"
+      },
+      "link": {
+        "type": "Link",
+        "config": {
+          "label": "Link",
+          "placeholder": "",
+          "select": null
+        }
+      },
+      "maintitlea": {
+        "type": "StructuredText",
+        "config": {
+          "label": "maintitleA",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "maintitleb": {
+        "type": "StructuredText",
+        "config": {
+          "label": "maintitleB",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "mainsubtitle": {
+        "type": "StructuredText",
+        "config": {
+          "label": "mainsubtitle",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "seccontent": {
+        "type": "StructuredText",
+        "config": {
+          "label": "secContent",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "secimage": {
+        "type": "Image",
+        "config": {
+          "label": "secImage",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "product": {
+              "type": "SharedSlice"
+            },
+            "accordion": {
+              "type": "SharedSlice"
+            },
+            "no_link_slider": {
+              "type": "SharedSlice"
+            },
+            "job_banner": {
+              "type": "SharedSlice"
+            },
+            "text_card": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}

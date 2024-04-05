@@ -1,0 +1,39 @@
+    .links__arrow{
+        svg{
+            width: 16px;
+            height: 16px;
+        }
+    }
+
+    .links__item{
+        border: 0.5px solid #fff;
+        position: relative;    
+        .links__arrow{
+            svg{
+                stroke: #214EFF;
+            }
+    }
+}
+.links__item{
+    .marq__main, .links__item--title{
+        transition: transform 400ms cubic-bezier(0.2, 0.2, 0, 1);
+    }
+    .marq__main{
+        transform: translateY(100%);
+    }
+    &:hover{
+        .links__item--title{
+            transform: translateY(-100%);
+        }
+       .marq__main{
+            transform: translateY(0);
+       } 
+    }
+}
+.marq__main{
+    position: absolute;
+    top: 0;
+    left: 0;
+    inset: 0;
+    overflow: hidden;
+}

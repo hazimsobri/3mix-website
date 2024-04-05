@@ -1,0 +1,26 @@
+import MyComponent from '../../../../slices/Accordion';
+import SliceZone from 'vue-slicezone'
+
+export default {
+  title: 'slices/Accordion'
+}
+
+
+export const _Default = () => ({
+  components: {
+    MyComponent,
+    SliceZone
+  },
+  methods: {
+    resolve() {
+      return MyComponent
+    }
+  },
+  data() {
+    return {
+      mock: {"variation":"default","name":"Default","slice_type":"accordion","items":[{"title":[{"type":"paragraph","text":"Nostrud ipsum eiusmod exercitation est deserunt elit duis tempor do.","spans":[]}],"description":[{"type":"paragraph","text":"Fugiat mollit quis sit laboris reprehenderit. Qui tempor qui culpa eu minim tempor ex aute do magna enim consequat.","spans":[]}],"image":{"dimensions":{"width":900,"height":500},"alt":"Placeholder image","copyright":null,"url":"https://images.unsplash.com/photo-1593642633279-1796119d5482?w=900&h=500&fit=crop"}},{"title":[{"type":"paragraph","text":"Aliqua ad nisi consequat Lorem quis aliqua est minim cillum. Aliquip dolor enim laborum eiusmod duis amet adipisicing fugiat mollit amet ullamco anim aliquip et cillum. Irure commodo duis dolore amet exercitation voluptate.","spans":[]}],"description":[{"type":"paragraph","text":"Id Lorem occaecat qui elit. Magna adipisicing ad labore laboris. Aliquip nostrud do anim mollit enim magna do enim dolor ipsum.","spans":[]}],"image":{"dimensions":{"width":900,"height":500},"alt":"Placeholder image","copyright":null,"url":"https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?w=900&h=500&fit=crop"}},{"title":[{"type":"paragraph","text":"Eiusmod quis nostrud duis eiusmod anim voluptate enim dolore cillum mollit.","spans":[]}],"description":[{"type":"paragraph","text":"In consequat quis consectetur do exercitation est ullamco velit nulla quis qui. Dolor elit anim nisi Lorem quis adipisicing anim sunt aliquip mollit proident qui qui aliqua.","spans":[]}],"image":{"dimensions":{"width":900,"height":500},"alt":"Placeholder image","copyright":null,"url":"https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?w=900&h=500&fit=crop"}}],"primary":{"titleA":[{"type":"paragraph","text":"Nisi culpa minim nulla sint. Fugiat do enim esse anim deserunt labore. Velit sint veniam nostrud ut consequat commodo est eiusmod.","spans":[]}],"titleB":[{"type":"paragraph","text":"Eu consectetur ea incididunt anim aliquip eiusmod. Nostrud sint minim dolor enim ad deserunt.","spans":[]}],"image":{"dimensions":{"width":900,"height":500},"alt":"Placeholder image","copyright":null,"url":"https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=900&h=500&fit=crop"}},"id":"_Default"}
+    }
+  },
+  template: '<SliceZone :slices="[mock]" :resolver="resolve" />'
+})
+_Default.storyName = 'Default'

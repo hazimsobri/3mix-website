@@ -1,0 +1,62 @@
+{
+  "id": "full_image_hero",
+  "type": "SharedSlice",
+  "name": "FullImageHero",
+  "description": "FullImageHero",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "FullImageHero",
+      "primary": {
+        "titleA": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title A",
+            "placeholder": "",
+            "allowTargetBlank": false,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        },
+        "titleB": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title B",
+            "placeholder": "",
+            "allowTargetBlank": false,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        },
+        "titleC": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title C",
+            "placeholder": "",
+            "allowTargetBlank": false,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "single": "paragraph",
+            "label": "Description",
+            "placeholder": "A nice description of your product"
+          }
+        },
+        "image": {
+          "type": "Image",
+          "config": {
+            "label": "Image",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

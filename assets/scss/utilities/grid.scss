@@ -1,0 +1,21 @@
+.right-col, .left-col{
+    position: relative;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
+.md-right-col, .md-left-col{
+    @media (min-width:768px){
+        position: relative;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+}
+
+.lg-right-col, .lg-left-col{
+    @media (min-width:1024px){
+        position: relative;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+}

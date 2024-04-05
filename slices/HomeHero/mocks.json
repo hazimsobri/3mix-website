@@ -1,0 +1,79 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Magna et tempor ullamco excepteur aute aute dolore occaecat excepteur sit non ullamco laborum veniam."
+            }
+          }
+        ]
+      },
+      "title-b": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Deserunt ullamco reprehenderit ipsum commodo esse ipsum aliquip voluptate duis do ut eu. Cupidatat ullamco aliquip dolor pariatur eiusmod excepteur magna. Non cillum anim sunt officia anim aliquip consectetur."
+            }
+          }
+        ]
+      },
+      "title-a": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Consectetur aliqua eu adipisicing pariatur consequat eiusmod nostrud voluptate duis est velit cillum. Qui amet qui tempor ullamco mollit velit incididunt dolor irure laborum mollit anim adipisicing sit nulla."
+            }
+          }
+        ]
+      },
+      "title-c": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "In culpa quis elit officia commodo. Id velit et ex proident esse minim id laboris officia duis aliquip et do consequat culpa."
+            }
+          }
+        ]
+      },
+      "hero-image": {
+        "__TYPE__": "ImageContent",
+        "origin": {
+          "id": "main",
+          "url": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef",
+          "width": 4000,
+          "height": 6000
+        },
+        "url": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef",
+        "width": 4000,
+        "height": 6000,
+        "edit": {
+          "zoom": 1,
+          "crop": {
+            "x": 0,
+            "y": 0
+          },
+          "background": "transparent"
+        },
+        "thumbnails": {}
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  }
+]

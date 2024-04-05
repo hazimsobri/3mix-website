@@ -1,0 +1,59 @@
+{
+  "slices": {
+    "__TYPE__": "SliceContentType",
+    "value": [
+      {
+        "key": "menu$2c7dfb21-d9ed-4aef-bb6b-61f78c3d5601",
+        "name": "menu",
+        "widget": {
+          "__TYPE__": "SharedSliceContent",
+          "variation": "default",
+          "primary": {
+            "title": {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "heading1",
+                  "content": {
+                    "text": "Power"
+                  }
+                }
+              ]
+            }
+          },
+          "items": [
+            {
+              "__TYPE__": "GroupItemContent",
+              "value": [
+                [
+                  "title",
+                  {
+                    "__TYPE__": "StructuredTextContent",
+                    "value": [
+                      {
+                        "type": "paragraph",
+                        "content": {
+                          "text": "Tempor dolor culpa ut id nulla et non amet ex pariatur minim. Qui tempor est voluptate deserunt in culpa cillum nulla ea. Consequat sunt esse eu commodo consequat in nisi."
+                        }
+                      }
+                    ]
+                  }
+                ],
+                [
+                  "link",
+                  {
+                    "__TYPE__": "LinkContent",
+                    "value": {
+                      "__TYPE__": "ExternalLink",
+                      "url": "https://slicemachine.dev"
+                    }
+                  }
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "content_type_c",
+  "type": "SharedSlice",
+  "name": "ContentTypeC",
+  "description": "ContentTypeC",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "ContentTypeC",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "single": "heading1",
+            "label": "Title",
+            "placeholder": "This is where it all begins..."
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "single": "paragraph",
+            "label": "Description",
+            "placeholder": "A nice description of your product"
+          }
+        },
+        "image-1": {
+          "config": {
+            "label": "Image1",
+            "constraint": {},
+            "thumbnails": []
+          },
+          "type": "Image"
+        },
+        "image-2": {
+          "config": {
+            "label": "Image2",
+            "constraint": {},
+            "thumbnails": []
+          },
+          "type": "Image"
+        },
+        "image-3": {
+          "config": {
+            "label": "Image3",
+            "constraint": {},
+            "thumbnails": []
+          },
+          "type": "Image"
+        },
+        "image-4": {
+          "config": {
+            "label": "Image4",
+            "constraint": {},
+            "thumbnails": []
+          },
+          "type": "Image"
+        },
+        "image-5": {
+          "config": {
+            "label": "Image5",
+            "constraint": {},
+            "thumbnails": []
+          },
+          "type": "Image"
+        },
+        "image-6": {
+          "config": {
+            "label": "Image6",
+            "constraint": {},
+            "thumbnails": []
+          },
+          "type": "Image"
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

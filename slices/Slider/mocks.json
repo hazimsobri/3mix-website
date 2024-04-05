@@ -1,0 +1,99 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "titleA": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Lorem sit amet id non nulla mollit cillum. Amet duis mollit culpa. Nostrud in occaecat officia ad tempor Lorem exercitation consectetur aliqua adipisicing veniam laboris dolor."
+            }
+          }
+        ]
+      },
+      "titleB": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Irure ut culpa officia ullamco labore aute consequat proident irure ea aliquip Lorem do magna. Deserunt duis ea voluptate fugiat amet."
+            }
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "title",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Adipisicing nisi proident ipsum est cupidatat aliqua sunt officia."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "description",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Deserunt non reprehenderit ullamco veniam cupidatat ipsum nulla ea non elit commodo et reprehenderit consectetur. Pariatur sint dolor veniam laboris deserunt voluptate magna officia."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "image",
+            {
+              "__TYPE__": "ImageContent",
+              "origin": {
+                "id": "main",
+                "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869",
+                "width": 3199,
+                "height": 3199
+              },
+              "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869",
+              "width": 3199,
+              "height": 3199,
+              "edit": {
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                },
+                "background": "transparent"
+              },
+              "thumbnails": {}
+            }
+          ],
+          [
+            "link",
+            {
+              "__TYPE__": "LinkContent",
+              "value": {
+                "__TYPE__": "ExternalLink",
+                "url": "https://prismic.io"
+              }
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

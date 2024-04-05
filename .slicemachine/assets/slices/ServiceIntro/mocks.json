@@ -1,0 +1,31 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "service_intro",
+    "items": [],
+    "primary": {
+      "titleA": [
+        {
+          "type": "paragraph",
+          "text": "Laboris non magna culpa occaecat minim occaecat sunt. Cupidatat ea proident in proident ad labore dolore et dolor laboris amet nulla.",
+          "spans": []
+        }
+      ],
+      "titleB": [
+        {
+          "type": "paragraph",
+          "text": "Incididunt dolore labore ad cupidatat ex.",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Enim velit incididunt mollit laborum anim esse Lorem amet elit dolore quis voluptate. Elit ea et voluptate cupidatat duis dolor dolor. Quis labore aliquip commodo nostrud ipsum fugiat laborum ex commodo dolore dolore.",
+          "spans": []
+        }
+      ]
+    }
+  }
+]

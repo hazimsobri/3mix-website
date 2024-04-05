@@ -1,0 +1,89 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "title-A": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Sunt fugiat in consequat. Esse Lorem ut eiusmod elit voluptate id."
+            }
+          }
+        ]
+      },
+      "title-B": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Nisi veniam et officia culpa eiusmod do. Irure magna pariatur sit aute tempor incididunt ipsum officia qui amet voluptate quis excepteur."
+            }
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "caption",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Proident nisi laborum reprehenderit sunt do ipsum ipsum consequat adipisicing anim sit sit. Id est sit est voluptate aliqua qui ipsum ea. Ea occaecat Lorem elit ad aliqua ex."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "tag",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Veniam reprehenderit fugiat eu in irure ad sunt do consectetur fugiat esse nisi. Est consequat labore voluptate eiusmod."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "image",
+            {
+              "__TYPE__": "ImageContent",
+              "origin": {
+                "id": "main",
+                "url": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a",
+                "width": 3456,
+                "height": 4320
+              },
+              "url": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a",
+              "width": 3456,
+              "height": 4320,
+              "edit": {
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                },
+                "background": "transparent"
+              },
+              "thumbnails": {}
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

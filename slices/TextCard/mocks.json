@@ -1,0 +1,76 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading1",
+            "content": {
+              "text": "Ought"
+            }
+          }
+        ]
+      },
+      "subtitle": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Ad sint voluptate in mollit sit. Tempor pariatur consequat nisi. Velit elit excepteur ullamco non eu excepteur sint consequat reprehenderit deserunt labore proident sint tempor nostrud."
+            }
+          }
+        ]
+      },
+      "subdesc": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Commodo laboris qui officia est veniam."
+            }
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "subtitle",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Aliquip pariatur velit pariatur occaecat elit amet sunt ut elit voluptate et. Cupidatat incididunt cupidatat aliqua consectetur ea non adipisicing ullamco tempor in ipsum labore. Quis ut exercitation velit aliquip."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "subdesc",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Nostrud eu enim incididunt anim duis. Incididunt cupidatat incididunt dolor nulla deserunt aliquip reprehenderit fugiat. Duis labore commodo et ex nostrud est veniam cillum deserunt cupidatat elit ea consequat sint sit."
+                  }
+                }
+              ]
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

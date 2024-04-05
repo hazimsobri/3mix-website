@@ -1,0 +1,103 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Chose"
+            }
+          }
+        ]
+      },
+      "description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Ut magna mollit in eu."
+            }
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "image",
+            {
+              "__TYPE__": "ImageContent",
+              "origin": {
+                "id": "main",
+                "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853",
+                "width": 5243,
+                "height": 3495
+              },
+              "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853",
+              "width": 5243,
+              "height": 3495,
+              "edit": {
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                },
+                "background": "transparent"
+              },
+              "thumbnails": {}
+            }
+          ],
+          [
+            "title",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Aliquip qui exercitation velit consectetur nostrud aliquip consectetur consequat sit laboris ut consectetur ea velit. Duis amet qui nisi voluptate veniam irure amet."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "desc",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Excepteur officia minim elit et eiusmod irure quis esse adipisicing voluptate. Excepteur aliqua non pariatur adipisicing ea eu. Duis ut occaecat laborum et velit laboris non excepteur dolor commodo ad."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "detail",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Irure in aliquip minim veniam anim duis ad aliquip non nisi reprehenderit ipsum reprehenderit laboris minim. Enim sunt deserunt eu enim aliqua magna ullamco ut nisi. Cupidatat occaecat enim pariatur elit ad excepteur excepteur sit."
+                  }
+                }
+              ]
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

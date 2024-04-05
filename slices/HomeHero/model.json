@@ -1,0 +1,62 @@
+{
+  "id": "home_hero",
+  "type": "SharedSlice",
+  "name": "HomeHero",
+  "description": "HomeHero",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "HomeHero",
+      "primary": {
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "A nice description of your product",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted"
+          }
+        },
+        "title-b": {
+          "config": {
+            "label": "Title B",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          },
+          "type": "StructuredText"
+        },
+        "title-a": {
+          "config": {
+            "label": "Title A",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          },
+          "type": "StructuredText"
+        },
+        "title-c": {
+          "config": {
+            "label": "Title C",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          },
+          "type": "StructuredText"
+        },
+        "hero-image": {
+          "config": {
+            "label": "Hero Image",
+            "constraint": {},
+            "thumbnails": []
+          },
+          "type": "Image"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

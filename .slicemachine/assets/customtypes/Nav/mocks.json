@@ -1,0 +1,35 @@
+{
+  "id": "06224322-6aff-46b1-b49a-8d9dad21151e",
+  "uid": "quos-quo-et",
+  "type": "nav",
+  "data": {
+    "navItems": [
+      {
+        "navTitle": [
+          {
+            "type": "paragraph",
+            "text": "Officia esse incididunt occaecat quis minim irure consequat ipsum ipsum fugiat. Esse sit est amet eiusmod labore et in nisi.",
+            "spans": []
+          }
+        ],
+        "navLink": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      },
+      {
+        "navTitle": [
+          {
+            "type": "paragraph",
+            "text": "Occaecat amet id duis esse in exercitation minim.",
+            "spans": []
+          }
+        ],
+        "navLink": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        }
+      }
+    ]
+  }
+}
